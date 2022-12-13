@@ -1,0 +1,80 @@
+body{
+margin: 0;
+background-image: url("../images/p10.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+
+}
+
+#sec{
+    width: 70%;
+    background-color: #fff;
+    margin:0 auto;
+    max-width: 1000px;
+    color: black;
+    padding: 6PX;
+    
+    
+}
+div{
+    text-align: center;
+   
+}
+
+nav{
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    background-color:rgb(27, 136, 213)
+
+
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: large;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+nav a:hover {
+    color: #4255a7; 
+}
+.pic2{
+    
+
+    display: block;
+    margin: 0 auto;
+    
+
+}
+
+.pic4{
+    
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+
+}
+.pic3{
+    
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+    border: #fff;
+    border-radius: 5px;
+
+}
+h2{
+    color:rgb(16, 137, 40);
+}
+span{
+    color: rgb(16, 137, 40);
+    font-weight: 900s;
+}
+H1{
+    color: rgb(27, 136, 213);
+
+}
