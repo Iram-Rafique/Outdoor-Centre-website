@@ -78,3 +78,21 @@ H1{
     color: rgb(27, 136, 213);
 
 }
+@media screen and (max-width: 800px) {
+    #sec{
+        width:100%;
+      
+    }
+    .pic2{
+        width: 100%;
+        overflow: hidden;
+    }
+    .pic3{
+        width: 100%;
+        overflow: hidden;
+    }
+    .pic4{
+        width: 100%;
+        overflow: hidden;
+    }
+  }
